@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FunctionalProgramming\SortEvenNumbers\bin\Debug\netcoreapp2.0\SortEvenNumbers.deps.json
+C:\Users\User\source\repos\FunctionalProgramming\SortEvenNumbers\bin\Debug\netcoreapp2.0\SortEvenNumbers.runtimeconfig.json
+C:\Users\User\source\repos\FunctionalProgramming\SortEvenNumbers\bin\Debug\netcoreapp2.0\SortEvenNumbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\FunctionalProgramming\SortEvenNumbers\bin\Debug\netcoreapp2.0\SortEvenNumbers.dll
+C:\Users\User\source\repos\FunctionalProgramming\SortEvenNumbers\bin\Debug\netcoreapp2.0\SortEvenNumbers.pdb
+C:\Users\User\source\repos\FunctionalProgramming\SortEvenNumbers\obj\Debug\netcoreapp2.0\SortEvenNumbers.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FunctionalProgramming\SortEvenNumbers\obj\Debug\netcoreapp2.0\SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FunctionalProgramming\SortEvenNumbers\obj\Debug\netcoreapp2.0\SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FunctionalProgramming\SortEvenNumbers\obj\Debug\netcoreapp2.0\SortEvenNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\FunctionalProgramming\SortEvenNumbers\obj\Debug\netcoreapp2.0\SortEvenNumbers.dll
+C:\Users\User\source\repos\FunctionalProgramming\SortEvenNumbers\obj\Debug\netcoreapp2.0\SortEvenNumbers.pdb
