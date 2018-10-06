@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\AddVAT\\AddVAT.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\AddVAT\\AddVAT.csproj",
       "projectName": "AddVAT",
-      "projectPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\AddVAT\\AddVAT.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\AddVAT\\AddVAT.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\AddVAT\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\AddVAT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

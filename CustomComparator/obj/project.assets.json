@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\CustomComparator\\CustomComparator.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\CustomComparator\\CustomComparator.csproj",
       "projectName": "CustomComparator",
-      "projectPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\CustomComparator\\CustomComparator.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\CustomComparator\\CustomComparator.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\CustomComparator\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\CustomComparator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

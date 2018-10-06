@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\FunctionalProgramming\Functional-Programming-Current\Inferno\bin\Debug\netcoreapp2.0\Inferno.deps.json
+C:\Users\User\source\repos\FunctionalProgramming\Functional-Programming-Current\Inferno\bin\Debug\netcoreapp2.0\Inferno.runtimeconfig.json
+C:\Users\User\source\repos\FunctionalProgramming\Functional-Programming-Current\Inferno\bin\Debug\netcoreapp2.0\Inferno.runtimeconfig.dev.json
+C:\Users\User\source\repos\FunctionalProgramming\Functional-Programming-Current\Inferno\bin\Debug\netcoreapp2.0\Inferno.dll
+C:\Users\User\source\repos\FunctionalProgramming\Functional-Programming-Current\Inferno\bin\Debug\netcoreapp2.0\Inferno.pdb
+C:\Users\User\source\repos\FunctionalProgramming\Functional-Programming-Current\Inferno\obj\Debug\netcoreapp2.0\Inferno.csprojAssemblyReference.cache
+C:\Users\User\source\repos\FunctionalProgramming\Functional-Programming-Current\Inferno\obj\Debug\netcoreapp2.0\Inferno.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FunctionalProgramming\Functional-Programming-Current\Inferno\obj\Debug\netcoreapp2.0\Inferno.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FunctionalProgramming\Functional-Programming-Current\Inferno\obj\Debug\netcoreapp2.0\Inferno.AssemblyInfo.cs
+C:\Users\User\source\repos\FunctionalProgramming\Functional-Programming-Current\Inferno\obj\Debug\netcoreapp2.0\Inferno.dll
+C:\Users\User\source\repos\FunctionalProgramming\Functional-Programming-Current\Inferno\obj\Debug\netcoreapp2.0\Inferno.pdb

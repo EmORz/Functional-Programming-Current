@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\TriFunction\\TriFunction.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\TriFunction\\TriFunction.csproj",
       "projectName": "TriFunction",
-      "projectPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\TriFunction\\TriFunction.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\TriFunction\\TriFunction.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\TriFunction\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\TriFunction\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\AppliedArithmetics\\AppliedArithmetics.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\AppliedArithmetics\\AppliedArithmetics.csproj",
       "projectName": "AppliedArithmetics",
-      "projectPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\AppliedArithmetics\\AppliedArithmetics.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\AppliedArithmetics\\AppliedArithmetics.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\AppliedArithmetics\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\AppliedArithmetics\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

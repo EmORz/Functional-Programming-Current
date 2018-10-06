@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\countUppercaseWords\\countUppercaseWords.csproj",
-      "projectName": "countUppercaseWords",
-      "projectPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\countUppercaseWords\\countUppercaseWords.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\countUppercaseWords\\CountUppercaseWords.csproj",
+      "projectName": "CountUppercaseWords",
+      "projectPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\countUppercaseWords\\CountUppercaseWords.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\countUppercaseWords\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\FunctionalProgramming\\Functional-Programming-Current\\countUppercaseWords\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
